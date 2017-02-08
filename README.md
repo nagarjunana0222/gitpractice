@@ -1,2 +1,1 @@
-# gitpractice 
-naga usese some code
+# gitpractice
